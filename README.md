@@ -2,25 +2,6 @@
 
 # Termux-SSH
 
-```
-+-----------------------------------------------------------+
-| _____                                _____ _____ _   _    |
-||_   _|                              /  ___/  ___| | | |   |
-|  | | ___ _ __ _ __ ___  _   ___  __ \ `--.\ `--.| |_| |   |
-|  | |/ _ \ '__| '_ ` _ \| | | \ \/ /  `--. \`--. \  _  |   |
-|  | |  __/ |  | | | | | | |_| |>  <  /\__/ /\__/ / | | |   |
-|  \_/\___|_|  |_| |_| |_|\__,_/_/\_\ \____/\____/\_| |_/   |
-|                                A tool by Dhrumil Mistry   |
-+-----------------------------------------------------------+
-| ~ ~ ~ ~ ~ A tool Specially Designed for Termux ~ ~ ~ ~ ~  |
-+-----------------------------------------------------------+
-```
-
-Termux SSH helps user to setup SSH server on termux android application, which will help them to execute commands remotely using a command line.
-If your device is rooted then you can have full control over the android smartphone. You can take screenshots, record and capture audio, video, images remotely using termux apis.
-
-> This feature might not work on few devices. Refer [Termux-API documentation](https://wiki.termux.com/wiki/Termux:API) for more information.
-
 ## Screenshot
 
 ![Termux-SSH](https://github.com/dmdhrumilmistry/Termux-SSH/blob/main/.images/Termux-SSH-v1.1.0.png?raw=true)
